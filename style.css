@@ -1,0 +1,57 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+.container{
+    background-color: rgb(83, 181, 148);
+    width: 100vw;
+    height: 100vh;
+}
+img{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+}
+#heading{
+    text-align: center;
+    position: absolute;
+    bottom: 50%;
+    margin-left: 350px;
+    color: antiquewhite;
+}
+#title{
+    text-align: center;
+    position: absolute;
+    bottom: 60%; 
+    margin-left: 600px;
+    color: aliceblue;
+}
+.input-container{
+    text-align: center;
+    position: absolute;
+    bottom: 40%;
+    color: floralwhite;
+    margin-left: 650px;
+}
+#attemptLabel{
+    text-align: center;
+    position: absolute;
+    bottom: 35%;
+    margin-left: 650px;
+    color: cornsilk;
+}
+#message{
+    position: absolute;
+    bottom: 30%;
+    margin-left: 650px;
+    color: cornsilk;
+}
+#win{
+    width: 50vw;
+    height: 50vh;
+}
+#lose{
+    width: 50vw;
+    height: 50vh;
+}
